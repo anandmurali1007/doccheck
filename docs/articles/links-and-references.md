@@ -8,12 +8,12 @@ articles in the same folder.
 - [Getting started with the sync test](getting-started.md)
 - [Formatting basics](formatting-basics.md)
 - [Tables and data](tables-and-data.md)
-- [Code samples](code-samples.md)
+- [Code samples](advanced/code-samples.md)
 
 ## Links using a repository-relative path
 
 - [Getting started](/docs/articles/getting-started.md)
-- [Code samples](/docs/articles/code-samples.md)
+- [Code samples](/docs/articles/advanced/code-samples.md)
 
 ## External links
 

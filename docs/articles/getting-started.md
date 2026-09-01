@@ -19,10 +19,12 @@ so every correction has to be committed back to this repository.
 
 ## What to verify after the first sync
 
-Confirm that all five articles appear under the same category, that the folder
-name is mirrored as the category name, and that the article titles match the
-headings used in each file. Then change a single paragraph, commit it, and check
-that the update reaches the portal.
+Confirm that four articles appear under a category named after the `articles`
+folder, and that the fifth one, which sits in `articles/advanced`, appears under
+a nested sub-category of the same name rather than being flattened alongside the
+others. Check that the article titles match the headings used in each file. Then
+change a single paragraph, commit it, and check that the update reaches the
+portal.
 
 ## Known limitations
 
