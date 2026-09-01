@@ -1,0 +1,4 @@
+# Assets
+
+Media files for GitHub-synced articles must live in this folder.
+Reference them as: ![alt](/docs/.document360/assets/filename.png)
